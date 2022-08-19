@@ -1,0 +1,1 @@
+# Kubernetes manifests config of spring-petclinic
